@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damasofc/CLionProjects/Tarea1/Evaluador.cpp
+Evaluador.h
+/home/damasofc/CLionProjects/Tarea1/Evaluador.h
+
+/home/damasofc/CLionProjects/Tarea1/Evaluador.h
+iostream
+-
+stack
+-
+
+/home/damasofc/CLionProjects/Tarea1/main.cpp
+Evaluador.h
+/home/damasofc/CLionProjects/Tarea1/Evaluador.h
+iostream
+-
+
